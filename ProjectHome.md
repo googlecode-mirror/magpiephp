@@ -1,0 +1,1 @@
+A feed parser for PHP, that handles RSS, and Atom, with built-in caching, and a super simple interface.
